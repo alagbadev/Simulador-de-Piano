@@ -17,11 +17,11 @@
 
    🎹 Simulador de Piano Alagba 🎹
     Um simulador de piano desenvolvido utilizando HTML, CSS e JavaScript, projetado para aprimorar habilidades de desenvolvimento web e proporcionar uma experiência interativa de tocar piano diretamente no navegador.
-    Objetivo
-    Este projeto foi criado com o objetivo de aprimorar habilidades em diversas áreas, incluindo manipulação do DOM, captura de elementos HTML, adição e remoção de classes dinâmicas, uso do toggle, utilização de event listeners e estilização CSS para o layout do piano.
 
+      Objetivo
+    Este projeto foi criado com o objetivo de aprimorar habilidades em diversas áreas, incluindo manipulação do DOM, captura de elementos HTML, adição e remoção de classes dinâmicas, uso do toggle, utilização de event listeners e estilização CSS para o layout do piano.
+        
     Recursos
-    
         Teclas de piano interativas 🎶
         Controle de volume 🔊
         Opção para exibir/ocultar as teclas 🎚️
